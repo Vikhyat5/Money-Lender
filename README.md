@@ -6,8 +6,7 @@ The era of mobile technology opens the windows to the android app. The websites 
 
 
 
-![screenshot_20170831-032300](https://user-images.githubusercontent.com/24519869/29896943-
-839a2ad0-8dfc-11e7-90b8-75bee9380293.png)
+![screenshot_20170831-032300](https://user-images.githubusercontent.com/24519869/29896943-839a2ad0-8dfc-11e7-90b8-75bee9380293.png)
 
 ![screenshot_20170831-032311](https://user-images.githubusercontent.com/24519869/29896946-86b756ca-8dfc-11e7-8893-8cf7e6900c8c.png)
 ![screenshot_20170831-032307](https://user-images.githubusercontent.com/24519869/29896948-87478236-8dfc-11e7-8e27-4a84eb485a19.png)
