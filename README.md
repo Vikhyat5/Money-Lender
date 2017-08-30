@@ -6,12 +6,11 @@ The era of mobile technology opens the windows to the android app. The websites 
 
 
 
-![screenshot_20170731-025812](https://user-images.githubusercontent.com/24519869/28812750-d02fb424-76b3-11e7-854d-096d768d5ae2.png)
-![spalsh](https://user-images.githubusercontent.com/24519869/28812751-d03104b4-76b3-11e7-8007-5ffcf380931f.png)
-
-![screenshot_20170731-025747 1](https://user-images.githubusercontent.com/24519869/28812748-d02cfc20-76b3-11e7-95a3-7b27bce470ee.png)
-![screenshot_20170731-025734 4](https://user-images.githubusercontent.com/24519869/28812747-d02a75cc-76b3-11e7-87f5-d9fbc660fcb4.png)
-![screenshot_20170731-025740](https://user-images.githubusercontent.com/24519869/28812749-d02e0408-76b3-11e7-9d4e-7a2a6e836f9d.png)
+![screenshot_20170831-032300](https://user-images.githubusercontent.com/24519869/29896943-839a2ad0-8dfc-11e7-90b8-75bee9380293.png)
+![screenshot_20170831-032311](https://user-images.githubusercontent.com/24519869/29896946-86b756ca-8dfc-11e7-8893-8cf7e6900c8c.png)
+![screenshot_20170831-032307](https://user-images.githubusercontent.com/24519869/29896948-87478236-8dfc-11e7-8e27-4a84eb485a19.png)
+![screenshot_20170831-032410](https://user-images.githubusercontent.com/24519869/29896952-8a3293be-8dfc-11e7-8269-d29b42cf92ec.png)
+![screenshot_20170831-032322](https://user-images.githubusercontent.com/24519869/29896956-8ccf8afa-8dfc-11e7-81c1-24f4e9fa6feb.png)
 
 
 
